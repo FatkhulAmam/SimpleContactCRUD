@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QontaQue</string>
+    <string name="title">Selamat Datang Di QontaQue</string>
+    <string name="create_contact">Tulis Qontact</string>
+    <string name="read_contact">Lihat Qontact</string>
+    <string name="stay_connecting">Stay Connecting...</string>
+    <string name="enter_contact">Masukkan Qontaq Baru</string>
+    <string name="name">Nama</string>
+    <string name="phone">Telephone</string>
+    <string name="save">Simpan</string>
+    <string name="edit_contact">Edit Qontaque</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
