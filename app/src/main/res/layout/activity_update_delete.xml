@@ -20,6 +20,7 @@
         android:layout_marginBottom="10dp"/>
 
     <EditText
+        android:id="@+id/editName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/name"
@@ -29,6 +30,7 @@
         android:layout_marginBottom="10dp"/>
 
     <EditText
+        android:id="@+id/editNumber"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/phone"
@@ -39,12 +41,14 @@
         android:layout_marginBottom="10dp"/>
 
     <Button
+        android:id="@+id/updateButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/update"
         android:layout_marginBottom="10dp"/>
 
     <Button
+        android:id="@+id/deleteButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/delete"/>

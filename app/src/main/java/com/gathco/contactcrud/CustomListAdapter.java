@@ -57,7 +57,7 @@ public class CustomListAdapter extends BaseAdapter {
 //		}
 
         nama.setText("Nama : "+ m.get_name());
-        namaakun.setText("Kelas : "+ m.get_number());
+        namaakun.setText("Nomor : "+ m.get_number());
 
         return convertView;
     }

@@ -35,7 +35,7 @@
 
         <TextView
             android:textColor="@color/colorPrimary"
-            android:text="KELAS"
+            android:text="Nomor"
             android:id="@+id/text_akun"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
